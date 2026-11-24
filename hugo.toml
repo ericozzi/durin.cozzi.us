@@ -1,0 +1,14 @@
+baseURL = "https://durin.cozzi.us/"
+locale = "en-us"
+title = "Durin | The Cozzi Family"
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  family = "The Cozzi Family"
+  location = "Roseville, MN"
+  email = "sarahanderic@cozzi.us"
+  phone1 = "408-836-7356"
+  phone2 = "510-435-3599"
+  microchip = "7E10265861"
+  microchipURL = "https://my.buddyid.com/7E10265861"
+  qrURL = "http://go.cozzi.us/durin"
